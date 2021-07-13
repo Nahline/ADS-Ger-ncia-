@@ -1,0 +1,5 @@
+
+int main() {
+    printf("Terceiro arquivo da atividade.");
+    return 0;
+}
