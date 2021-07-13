@@ -1,0 +1,5 @@
+
+int main() {
+    printf("Segundo arquivo da atividade.");
+    return 0;
+}
